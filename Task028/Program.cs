@@ -1,7 +1,7 @@
 ﻿int multiplication(int N)
 {
     int sum = 1;
-    int i = 1;
+    int i = 2;
     if (N < 0)
     {
         i = N;
