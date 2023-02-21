@@ -3,7 +3,7 @@
     int count = 0;
     if (N < 1)
     {
-        N *= (-1)
+        N *= (-1);
     }
     while (N >= 1)
     {
